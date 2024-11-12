@@ -18,7 +18,7 @@ Welcome to my GitHub profile! 👨‍💻👩‍💻 Here, you'll find all the p
 
 ---
 
-📊 GitHub Stats
+📊 GitHub Stats          
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gligoric96&show_icons=true&theme=radical)
 
 ---
