@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 👨‍💻👩‍💻 Here, you'll find all the p
 ---
 
 🔎 About Me
-- 💼 Profession: Junior Developer and student
+- 💼 Profession: Junior Developer
 - 🌍 Location: Naples, Italy!
 - 🎓 Education: Bachelor’s in Business Administration, coding training at Generation Italy and ItConsulting
 - 🛠️ Tech Stack: Experienced in core programming languages and tools, with skills in Java, SQL, MySQL, HTML, CSS, Bootstrap, and Spring.
